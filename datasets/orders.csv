@@ -1,0 +1,11 @@
+order_id,customer_id,restaurant_id,order_date,order_amount,status
+1001,1,101,2024-03-01,250.00,Delivered
+1002,2,102,2024-03-02,500.00,Delivered
+1003,1,103,2024-03-03,300.00,Cancelled
+1004,3,101,2024-03-03,200.00,Delivered
+1005,4,104,2024-03-04,450.00,Delivered
+1006,5,102,2024-03-05,600.00,Delivered
+1007,6,103,2024-03-06,350.00,Delivered
+1008,2,105,2024-03-07,700.00,Delivered
+1009,3,101,2024-03-08,150.00,Delivered
+1010,7,104,2024-03-09,400.00,Delivered
