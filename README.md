@@ -1,2 +1,2 @@
-# Food-Delivery-SQL-Analysis
-This project is a SQL-based data analysis of a food delivery platform. The goal is to analyze customer behavior, restaurant performance, and delivery operations using structured relational data.  This project demonstrates how SQL can be used for real-world business decision-making and analytics.
+This project analyzes a food delivery platform inspired by Zomato using SQL.  
+The goal is to extract meaningful insights from structured data to support business decisions across customer behavior, restaurant performance, and delivery operations.
