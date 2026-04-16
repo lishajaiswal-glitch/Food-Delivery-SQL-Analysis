@@ -7,7 +7,7 @@ The objective is to extract meaningful insights from structured data and underst
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Food delivery platforms generate large volumes of data, but without proper analysis, it is difficult to:
 
@@ -29,7 +29,7 @@ This project addresses these challenges using SQL-based data analysis.
 
 ---
 
-## 🧠 Key SQL Concepts
+##  Key SQL Concepts
 
 * JOINs (INNER, LEFT)
 * GROUP BY & Aggregations
@@ -39,7 +39,7 @@ This project addresses these challenges using SQL-based data analysis.
 
 ---
 
-## 📊 Key Analysis Performed
+##  Key Analysis Performed
 
 ### 🔹 Customer Analysis
 
@@ -70,7 +70,7 @@ This project addresses these challenges using SQL-based data analysis.
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 * A small number of restaurants contribute to the majority of revenue
 * Customer activity varies across different cities
@@ -79,14 +79,14 @@ This project addresses these challenges using SQL-based data analysis.
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 * Introduce loyalty programs to improve customer retention
 * Promote high-performing restaurants
 * Target inactive users with personalized offers
 * Optimize delivery allocation during peak hours
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository
 2. Run the `create_tables.sql` file from the schema folder
@@ -95,7 +95,7 @@ This project addresses these challenges using SQL-based data analysis.
 
 ---
 
-## 🧩 Sample Advanced Query
+##  Sample Advanced Query
 
 ```sql
 SELECT 
