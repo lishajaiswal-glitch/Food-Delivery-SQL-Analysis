@@ -90,11 +90,28 @@ This project addresses these challenges using SQL-based data analysis.
 
 ## 📸 Project Snapshots
 
-(Add your screenshots here)
+# Customer Analysis Output
 
-Example:
-![Customer Analysis](outputs/customer_analysis.png)
-![Restaurant Performance](outputs/restaurant_performance.png)
+<img width="1366" height="768" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/87716efb-4037-4500-8de6-f78027a951aa" />
+
+# Inactive Customers
+
+<img width="1366" height="768" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/7d1aff53-a663-45b5-a3f4-4d2ff88c551c" />
+
+# Restaurant Ranking
+
+<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/5a3ecedd-e300-4409-84d9-1a7a01c96494" />
+
+# Revenue by Restaurant
+
+<img width="1366" height="768" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/34b93442-c6ae-49be-a25b-7dbf195bc091" />
+
+
+
+
+
+
+
 
 ---
 
