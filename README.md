@@ -1,12 +1,37 @@
 This project analyzes a food delivery platform inspired by Zomato using SQL.  
 The goal is to extract meaningful insights from structured data to support business decisions across customer behavior, restaurant performance, and delivery operations.
 
+Business Problem:
+
+Food delivery platforms generate large amounts of data, but without analysis, it is difficult to:
+- Identify active and inactive customers  
+- Evaluate restaurant performance  
+- Understand order trends over time  
+- Measure delivery efficiency  
+
+This project solves these problems using SQL.
+
+Tools & Technologies
+- MySQL  
+- SQL (Joins, Aggregations, CTEs, Window Functions)  
+- Data Analysis  
+- Business Insights 
+
 Key Insights
 
 - A small number of restaurants contribute to the majority of revenue  
 - Customer activity varies significantly across cities  
 - Some users remain inactive despite registration  
 - Delivery performance differs across partners
+- 
+Key SQL Concepts
+- JOINs (INNER, LEFT)  
+- GROUP BY & Aggregations  
+- Subqueries  
+- Common Table Expressions (CTEs)  
+- Window Functions (RANK)
+
+-  
 <img width="1366" height="768" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/4380bd82-eba0-4d96-b8bb-d20632338a5f" />
 Customer Analysis
 <img width="1366" height="768" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/19024bd0-e36d-418a-886a-1c2d3b1c0270" />
